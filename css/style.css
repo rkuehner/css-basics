@@ -1,0 +1,41 @@
+body
+  font-size: 14px;
+}
+
+/*this is the navbar*/
+nav {
+  background-color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+/*main section of div elements*/
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.example, h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+div {
+  background-color: green;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
+
+/* last three div elements*/
+.alter {
+  background-color: red;
+}
